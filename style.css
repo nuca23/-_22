@@ -1,0 +1,41 @@
+* 
+ body{
+    background: #1E1E1E;
+}
+
+.main-box{
+    box-sizing: border-box;
+    position: absolute;
+    width: 562px;
+    height: 818px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+}
+.img{
+width: 159.24px;
+height: 146.57px;
+background: url(Cool.png);
+filter: drop-shadow(0px 4px 34px rgba(0, 0, 0, 0.13));
+}
+h1{
+width: 273px;
+height: 40px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+p{
+width: 476px;
+height: 311px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+color: #000000;
+
+}
